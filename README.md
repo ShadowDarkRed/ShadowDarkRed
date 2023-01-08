@@ -1,7 +1,9 @@
 ### Olá, eu sou Haron Carvalho
-
+   
 - 🌱 Estudando C
-
+<div>
+<img align="right" alt="Shadow-HTML" height="240" width="320" src="https://user-images.githubusercontent.com/51106836/211208933-8dd71654-2053-4131-96e6-ad9c584c3fcf.gif">
+</div>
 <div align="center">
   <a href="https://github.com/ShadowDarkRed">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShadowDarkRed&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
